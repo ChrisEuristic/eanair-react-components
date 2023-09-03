@@ -31,4 +31,5 @@ function SomeComponent() {
 }
 ```
 Example result
-![codeblock](https://github.com/ChrisEuristic/eanair-react-components/tree/main/resource/codeblock.png "codeblock")
+![codeblock](https://github.com/ChrisEuristic/eanair-react-components/blob/main/resource/codeblock.png?raw=true "codeblock")
+
